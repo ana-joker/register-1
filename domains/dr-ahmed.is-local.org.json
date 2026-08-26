@@ -1,0 +1,16 @@
+{
+    "description":  "Temp mail engine for Dr. Ahmed",
+    "domain":  "is-local.org",
+    "owner":  {
+                  "email":  "ana.joker@users.noreply.github.com",
+                  "repo":  "https://github.com/ana-joker/register-1"
+              },
+    "record":  {
+                   "NS":  [
+                              "aryanna.ns.cloudflare.com",
+                              "brad.ns.cloudflare.com"
+                          ]
+               },
+    "proxied":  false,
+    "subdomain":  "dr-ahmed"
+}
